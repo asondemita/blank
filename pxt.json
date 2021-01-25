@@ -1,0 +1,23 @@
+{
+    "name": "blank",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-tfabconnect-beta": "github:tfabworks/pxt-tfabconnect-beta#v1.1.3",
+        "stem_s": "github:tfabworks/pxt-stem-s#v2.0.0",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
